@@ -18,7 +18,9 @@
 * [Kaggle competitor using deep learning](http://317070.github.io/)
 * [NLP, digital studio](https://explosion.ai/)
 * [Machine Learning articles](https://jmetzen.github.io/) (implemented a VAE)
-*
+* [Application to Computer Vision](http://www.computervisionblog.com/)
+* [Machine learning tricks](http://blog.shakirm.com/)
+
 # Compagny blogs
 * [OpenAI blog]( https://openai.com/blog/)
 * [Google]( https://research.googleblog.com/)
