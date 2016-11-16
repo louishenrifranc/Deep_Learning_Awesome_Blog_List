@@ -20,6 +20,7 @@
 * [Machine Learning articles](https://jmetzen.github.io/) (implemented a VAE)
 * [Application to Computer Vision](http://www.computervisionblog.com/)
 * [Machine learning tricks](http://blog.shakirm.com/)
+* [Reinforcement learning](http://outlace.com/) (nice introduction to Reinforcement Learning and QLearning)
 
 # Compagny blogs
 * [OpenAI blog]( https://openai.com/blog/)
